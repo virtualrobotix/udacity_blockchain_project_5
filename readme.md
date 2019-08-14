@@ -30,5 +30,8 @@ $ truffle migrate --reset --network rinkeby
 
 ## Deploied 'StarNotary Contract'
 
-contract address:    0xEe0126DDc7C93757a9fCda040a7D31D4583cF085
-account:             0x7D266dBf07805aD8170245FA7C32dA3330C1eE9d
+contract address:    
+0xEe0126DDc7C93757a9fCda040a7D31D4583cF085
+
+account:
+0x7D266dBf07805aD8170245FA7C32dA3330C1eE9d
